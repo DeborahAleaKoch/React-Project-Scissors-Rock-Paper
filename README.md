@@ -30,4 +30,4 @@ Durch einen Button kann das Spiel neu gestartet werden.
 
 # Starte das Spiel
 
-Hier kann das Spiel gestartet werden: <link>
+Hier kann das Spiel gestartet werden: <a href='https://react-project-scissors-rock-paper.vercel.app/'>Spielen!</a>
